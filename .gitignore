@@ -1,3 +1,8 @@
 
-ale-dot-io_copy.txt
+*.pyc
+instance/
+.pytest_cache/
+.env
+.venv/
+ale_io_copy.txt
 __pycache__/
